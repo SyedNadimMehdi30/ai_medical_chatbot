@@ -1,0 +1,14 @@
+.git
+.gitignore
+.env
+__pycache__
+*.pyc
+*.pyo
+*.png
+*.jpg
+*.jpeg
+README.md
+LICENSE
+.github
+venv
+.venv
